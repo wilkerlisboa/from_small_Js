@@ -1,1 +1,1 @@
-<h1>A small from with javascript</h1>
+<h1>A small form with javascript</h1>
