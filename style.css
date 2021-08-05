@@ -45,15 +45,23 @@ input{
         position: absolute;
     }
     #first-result {
-        margin: 196px 0px 0px 120px;
+        margin: 196px 0px 0px 10px;
         padding: 20px;
     }
     #second-result {
-        margin: 24px 0px 0px 123px;
+        margin: 24px 0px 0px 10px;
         padding: 20px;
     }
     #third-result {
-        margin: 26px 0px 0px 124px;
+        margin: 26px 0px 0px 10px;
         padding: 20px;
+    }
+    input {
+        margin: 10px 0px 0px 47px;
+        padding: 5px;
+    }
+    h1 {
+        margin: 100px 0px 0px 63px;
+        font-family: sans-serif;
     }
 }
