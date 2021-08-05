@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    
+    margin: 100px 0px 0px 100px;
+
+    font-family: sans-serif;
+}
+h2{
+    margin: 29px 0px 0px 100px;
+    font-family: sans-serif;
+}
+
+input{
+    margin: 10px 0px 0px 100px;
+    padding: 5px;
+}
+#enviar{
+    position: absolute;
+    margin: 100px 0px 0px -120px;
+}
+#result{
+    margin: -327px 0px 0px 385px;
+    position: absolute;
+    
+}
+#first-result{
+    margin: -276px 0px 0px 434px;
+    padding: 20px;
+}
+#second-result{
+    margin: 62px 0px 0px 434px;
+    padding: 20px;
+}
+#third-result{
+    margin: 54px 0px 0px 434px;
+    padding: 20px;
+}
