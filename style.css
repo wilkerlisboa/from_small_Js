@@ -39,3 +39,21 @@ input{
     margin: 54px 0px 0px 434px;
     padding: 20px;
 }
+@media screen and (max-width: 600px){
+    #result {
+        margin: 152px 0px 0px 98px;
+        position: absolute;
+    }
+    #first-result {
+        margin: 196px 0px 0px 120px;
+        padding: 20px;
+    }
+    #second-result {
+        margin: 24px 0px 0px 123px;
+        padding: 20px;
+    }
+    #third-result {
+        margin: 26px 0px 0px 124px;
+        padding: 20px;
+    }
+}
