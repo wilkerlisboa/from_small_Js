@@ -39,6 +39,18 @@ input{
     margin: 54px 0px 0px 434px;
     padding: 20px;
 }
+a{
+    margin: 159px 0px 0px 144px;
+    position: absolute;
+    text-decoration: none;
+    width: 118px;
+    height: 31px;
+    background: red;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 10px;
+}
 @media screen and (max-width: 600px){
     #result {
         margin: 152px 0px 0px 98px;
@@ -64,4 +76,17 @@ input{
         margin: 100px 0px 0px 63px;
         font-family: sans-serif;
     }
+    a{
+        margin: 105px 0px 0px 47px;
+        position: absolute;
+        text-decoration: none;
+        width: 118px;
+        height: 31px;
+        background: red;
+        color: white;
+        text-align: center;
+        border-radius: 10px;
+        padding-top: 10px;
+    }
+
 }
