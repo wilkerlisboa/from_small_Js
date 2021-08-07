@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+textarea{
+    margin: 155px 0px 0px 280px;
+}
+
+#email{
+    position: absolute;
+    margin: 100px 0px 0px -722px;
+    padding: 8px;
+
+}
+#nome{
+    position: absolute;
+    margin: 100px 0px 0px -501px;
+    padding: 8px;
+}
+#senha{
+    position: absolute;
+    margin: 100px 0px 0px -286px;
+    padding: 8px;
+}
+#enviar{
+    padding: 8px;
+    position: absolute;
+    margin: 100px 0px 0px -64px;
+}
