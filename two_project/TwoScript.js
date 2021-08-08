@@ -1,3 +1,17 @@
+var Name;
+
+var eMail;
+
+var PassWord;
+
+var num = 0;
+
+function escrever(){
+    info = "Usuário número" + (num++) + "/n";
+    info += "Name:" + Name + "/n";
+    info += "E-mail:" + eMail + "/n/n";
+}
+
 function Place(){
     var nome = document.getElementById("nome").value;
     var Email = document.getElementById("email").value;
