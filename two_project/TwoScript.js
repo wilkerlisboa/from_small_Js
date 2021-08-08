@@ -1,3 +1,4 @@
+//Problem of Student is in JS
 var Name;
 
 var eMail;
@@ -12,6 +13,8 @@ function escrever(){
     info += "E-mail:" + eMail + "/n/n";
 }
 
+//Function is in the ok!!
+//event onclick in HTML
 function Place(){
     var nome = document.getElementById("nome").value;
     var Email = document.getElementById("email").value;
