@@ -2,27 +2,31 @@
     margin: 0;
     padding: 0;
 }
-
+/* The camp the text*/
 textarea{
     margin: 155px 0px 0px 280px;
 }
 
+/*box the Email*/
 #email{
     position: absolute;
     margin: 100px 0px 0px -722px;
     padding: 8px;
 
 }
+/*box the name*/
 #nome{
     position: absolute;
     margin: 100px 0px 0px -501px;
     padding: 8px;
 }
+/*box the PassWord*/
 #senha{
     position: absolute;
     margin: 100px 0px 0px -286px;
     padding: 8px;
 }
+/*button is the submit*/
 #enviar{
     padding: 8px;
     position: absolute;
